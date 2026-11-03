@@ -16,5 +16,4 @@ Usted puede **compartir** (copiar y redistribuir el material en cualquier medio 
 Resumen de la licencia: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
 Texto legal completo: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
 
-**Cómo citar:** Serrano Ortiz, M. (2026). *Modelo TIHA: recursos educativos abiertos* [Recurso educativo]. Universidad de Puerto Rico.
-
+**Cómo citar:** Serrano Ortiz, M. (2026). *Modelo TIHA: recursos educativos abiertos* [Recurso educativo].
